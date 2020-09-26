@@ -1,0 +1,1 @@
+<audio controls="" src="<?php echo $src ?>"></audio>
